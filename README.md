@@ -1,5 +1,6 @@
 ## About ConEmu
 
+
 [![master build status](https://dev.azure.com/MaksimMoisiuk/conemu/_apis/build/status/Maximus5.ConEmu?branchName=master&label=master)](https://dev.azure.com/MaksimMoisiuk/conemu/_build/latest?definitionId=1&branchName=master&label=master)
 [![daily build status](https://dev.azure.com/MaksimMoisiuk/conemu/_apis/build/status/Maximus5.ConEmu?branchName=daily&label=daily)](https://dev.azure.com/MaksimMoisiuk/conemu/_build/latest?definitionId=1&branchName=daily&label=daily)
 
