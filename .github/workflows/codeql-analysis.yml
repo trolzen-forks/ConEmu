@@ -10,7 +10,7 @@ on:
     branches: [master, daily, trolzen-patch-1, no-pipline-on-md]
   pull_request:
     # The branches below must be a subset of the branches above
-    branches: [master, daily, trolzen-patch-1, no-pipline-on-md]
+    branches: [master, daily, trolzen-patch-1, no-pipline-on-md,  test-no-pipline-on-md]
     paths-ignore:
       - '**/*.md'
       - '**/*.txt'
